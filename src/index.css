@@ -458,3 +458,7 @@ textarea {
   vertical-align: top;
   max-width: 100%;
 }
+
+.title > input {
+  text-overflow: ellipsis;
+}
